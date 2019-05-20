@@ -25,7 +25,7 @@ import android.view.SurfaceView;
 import android.view.WindowManager;
 import android.widget.Toast;
 
-//import android.R;
+
 public class MainActivity extends AppCompatActivity implements SurfaceHolder.Callback {
 
     SurfaceView cameraView, transparentView;
